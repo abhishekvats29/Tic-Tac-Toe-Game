@@ -1,2 +1,4 @@
-# Tic-Toc-Toe-Game
-This is a tic toc toe game.
+# Tic-Tac-Toe-Game
+Welcome to the timeless world of Tic Tac Toe, a classic game that has entertained and challenged players for generations. Whether you're a seasoned strategist or a newcomer to the world of board games, Tic Tac Toe is a simple yet engaging contest of wits that brings people together.
+Tic Tac Toe, known for its simplicity and elegance, is a two-player game played on a 3x3 grid. The goal? To be the first to create a line of three of your marks, either 'X' or 'O,' in a row, column, or diagonal. Don't let the straightforward rules fool you; beneath the surface lies a game of tactics and anticipation.
+Tic Tac Toe is more than just a game; it's a timeless challenge that encourages strategic thinking and friendly competition. So, grab a friend, choose your symbol, and embark on a journey of Xs and Os in the quest for victory!
